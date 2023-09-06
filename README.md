@@ -2,6 +2,27 @@
 
 **`Digital Craftsman`**
 
+## About Me
+
+👋 Hey there, I'm Todor , a curious explorer of the digital realm and a junior frontend developer by choice, not by chance.
+
+🧐 My journey into the coding universe began as an unquenchable thirst for creativity and a fascination with the art of webcrafting. I've come a long way from my first "Hello World" and have since fallen in love with the intricate dance between pixels and code.
+
+🎨 I'm not just a developer; I'm an artist armed with HTML, CSS, and JavaScript. I see websites as my canvas, and each line of code as a brushstroke in the masterpiece of user experience.
+
+💡 I'm all about innovation. I don't just follow trends; I set them. I believe in pushing the boundaries of what's possible, whether it's crafting a mesmerizing animation or finding an elegant solution to a seemingly impossible problem.
+
+🌟 My toolbox includes a mix of libraries, frameworks, and my own creative wizardry. I'm a constant learner, hungry for knowledge, and always on the hunt for the next challenge that will help me level up my skills.
+
+🌍 I'm not just building websites; I'm building connections. I'm a firm believer in the power of technology to bridge gaps and make the world a smaller, more inclusive place.
+
+🚀 Join me on this journey to create not just code but experiences that leave people saying, "Wow!" Let's bring our ideas to life, one pixel at a time.
+
+💬 Let's chat about web development, design, or any exciting project you have in mind. Feel free to dive into my repositories and let's embark on a digital adventure together!
+
+✌️ Keep coding, keep dreaming, and remember: the best websites are yet to be built!
+
+###
 
 ###
 
