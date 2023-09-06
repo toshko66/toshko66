@@ -1,5 +1,5 @@
 <h2 align="left">Todor Velichkov</h2>
-**Digital Craftsman**
+**`Digital Craftsman`**
 ###
 
 <div align="center">
