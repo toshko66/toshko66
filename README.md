@@ -31,6 +31,30 @@
 
 ###
 
+
+ Notable Projects
+
+```javascript
+const projects = {
+  "CondorGaming iGaming": {
+    "Tech Stack": "jQuery, Bootstrap, Sass, HTML"
+  },
+  "C4 E-commerce Website": {
+    "Tech Stack": "React, React Router, Material-UI, Axios, CSS"
+  },
+  "Crwn Clothing": {
+    "Tech Stack": "Firebase, React, React Router, Sass, React Context"
+  },
+  "AI Summarizer": {
+    "Tech Stack": "React, Redux, Redux Toolkit, Tailwind CSS, RapidAPI"
+  }
+};
+```
+
+###
+
+###
+
   <img align="right" height="200" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif"  />
 
 ###
