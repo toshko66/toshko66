@@ -12,9 +12,9 @@
 
 ###
 
-<div align="center">
+
   <img height="200" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif"  />
-</div>
+
 
 ###
 
