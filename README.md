@@ -12,10 +12,6 @@
 
 ###
 
-
-  <img height="200" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif"  />
-
-
 ###
 
 <div align="left">
@@ -33,7 +29,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt ="firebase logo" />
   <img width="12" />
-  
+  <img height="200" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif"  />
 </div>
 
 ###
