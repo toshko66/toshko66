@@ -16,11 +16,9 @@
 
 🌍 I'm not just building websites; I'm building connections. I'm a firm believer in the power of technology to bridge gaps and make the world a smaller, more inclusive place.
 
-🚀 Join me on this journey to create not just code but experiences that leave people saying, "Wow!" Let's bring our ideas to life, one pixel at a time.
+💬 Feel free to dive into my repositories and let's embark on a digital adventure together!
 
-💬 Let's chat about web development, design, or any exciting project you have in mind. Feel free to dive into my repositories and let's embark on a digital adventure together!
 
-✌️ Keep coding, keep dreaming, and remember: the best websites are yet to be built!
 
 ###
 
