@@ -84,6 +84,5 @@ const projects = {
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/toshko66/toshko66/output/snake.svg" alt="Snake animation" />
 
 ###
